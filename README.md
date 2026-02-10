@@ -12,4 +12,9 @@ growth, retention, funnel conversion, and revenue metrics.
 ## Structure
 - `schema/` includes table definitions
 - `queries/` includes analytics queries
-# sql-product-analytics
+
+## Example Use Cases
+- Track DAU, WAU, and MAU to monitor engagement
+- Analyze cohort-based retention to measure product stickiness
+- Support experimentation and product optimization with clean metrics
+
